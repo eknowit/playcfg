@@ -22,9 +22,13 @@ Para realizar la instalación del script debemos realizar los siguientes pasos:
 Uso
 ---
 Para utilizar el script se deberá ejecutar desde cualquier consola el siguiente comando:
+
 	playcfg version [VERSION A UTILIZAR]
+
 O simplemente:
+
 	playcfg 
+
 Si se desea configurar el PATH con la versión por defecto
 
 En caso el script no encuentre una versión de Play! esta no será cargada al PATH
