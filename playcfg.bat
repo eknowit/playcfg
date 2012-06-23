@@ -5,7 +5,7 @@
 :begin
 @echo off
 
-echo
+echo  _
 echo  _____   _                   __       
 echo  ^|  __ \^| ^|                 / _^|     
 echo  ^| ^|__) ^| ^| __ _ _   _  ___^| ^|_ __ _ 
@@ -14,7 +14,7 @@ echo  ^| ^|    ^| ^| (_^| ^| ^|_^| ^| (__^| ^|^| (_^| ^|
 echo  ^|_^|    ^|_^|\__,_^|\__, ^|\___^|_^| \__, ^|
 echo                   __/ ^|         __/ ^|
 echo                  ^|___/         ^|___/ 
-echo
+echo  _
 
 set pathToPlay=%~dp0
 set defaultVersion=1.2.4
